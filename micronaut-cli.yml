@@ -1,0 +1,6 @@
+applicationType: default
+defaultPackage: stock
+testFramework: junit
+sourceLanguage: java
+buildTool: gradle
+features: [app-name, gradle, http-client-test, java, java-application, junit, logback, micronaut-aot, micronaut-build, netty-server, properties, reactor, reactor-http-client, readme, serialization-jackson, shade]
